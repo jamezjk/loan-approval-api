@@ -5,7 +5,6 @@ Video-Based Customer Interaction
 Users record video responses instead of filling lengthy forms.
 Basic facial verification ensures the same applicant continues 
 Ensures that the same person interacts throughout the session, preventing identity fraud.
-
 records the customer interaction
 The system listens to the user’s answers through audio
 Converts the user’s spoken responses into text using Whisper AI
